@@ -8,13 +8,12 @@
       "paper_id": "C06",
       "title": "Code Video Model",
       "caption": "Three.js previs → generated video",
-      "thumbnail_url": "https://code-video-model.github.io/static/images/first-frames-native/f3259741b723aa48ea56dfe6dee81a9673e6bcab06b64b840e48a396d2ff528f-frame000030.webp",
+      "thumbnail_url": "https://code-video-model.github.io/static/images/first-frames-native/0c5f036db8d244d75ea1c974f493c7ce31fab388d00424668ef3e90794944956.webp",
       "video_url": "https://github.com/user-attachments/assets/d1a8594d-14fa-49aa-a101-03da77ed585f",
       "source_url": "https://github.com/code-video-model/CodeVideoModel#demo-video",
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://github-production-user-asset-6210df.s3.amazonaws.com/5800781/670930289-d1a8594d-14fa-49aa-a101-03da77ed585f.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261021%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T172159Z&X-Amz-Expires=300&X-Amz-Signature=27db21b04c9edbf3d085e2f20e695eaf2192ed41b30f4e2c8bc7a624069a2604&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4",
           "content_type": "video/mp4",
           "content_length": "102220082",
           "used_by": [
@@ -24,12 +23,8 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://code-video-model.github.io/static/images/first-frames-native/f3259741b723aa48ea56dfe6dee81a9673e6bcab06b64b840e48a396d2ff528f-frame000030.webp",
           "content_type": "image/webp",
-          "content_length": "27448",
-          "used_by": [
-            "media:cvm:thumbnail_url"
-          ],
+          "content_length": "199700",
           "checked_on": "2026-10-22"
         }
       }
@@ -39,13 +34,12 @@
       "paper_id": "C01",
       "title": "Code World Model",
       "caption": "Persistent code state → visual observations",
-      "thumbnail_url": "https://buaacyw.github.io/cwm/static/posters/teaser.webp?v=corrected-proxy-v2",
+      "thumbnail_url": "https://buaacyw.github.io/cwm/static/posters/control-world/undersea-airplane.webp",
       "video_url": "https://huggingface.co/datasets/NTU-yiwen/code-world-model-project-page-videos/resolve/main/project_page_final/teaser/code_world_model_full_demo.mp4",
       "source_url": "https://buaacyw.github.io/cwm/",
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6a8f130158482bb8b9d41297/4bb4f29340d7a12720a42c28c205e0c4b226459974e7bd8a70e4b0efb9886ee1?user_id=public&xip=KQbEbRuMRF0&response-content-type=video%2Fmp4&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27code_world_model_full_demo.mp4%3B+filename%3D%22code_world_model_full_demo.mp4%22%3B&Expires=1792606919&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmE4ZjEzMDE1ODQ4MmJiOGI5ZDQxMjk3LzRiYjRmMjkzNDBkN2ExMjcyMGE0MmMyOGMyMDVlMGM0YjIyNjQ1OTk3NGU3YmQ4YTcwZTRiMGVmYjk4ODZlZTFcXD91c2VyX2lkPXB1YmxpYyZ4aXA9S1FiRWJSdU1SRjAmcmVzcG9uc2UtY29udGVudC10eXBlPXZpZGVvJTJGbXA0JlgtWGV0LUNhcy1VaWQ9cHVibGljJnJlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249aW5saW5lJTNCK2ZpbGVuYW1lJTJBJTNEVVRGLTglMjclMjdjb2RlX3dvcmxkX21vZGVsX2Z1bGxfZGVtby5tcDQlM0IrZmlsZW5hbWUlM0QlMjJjb2RlX3dvcmxkX21vZGVsX2Z1bGxfZGVtby5tcDQlMjIlM0IiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5MjYwNjkxOX19fV19&Signature=MEUCIQDepJW6TGMpqg8M5-KhheEId3QeaXQjSkC%7EnvMXAGe1IAIgY8g5GRsakZaWXI4qMuId-aPzMAJhaR%7EvzAk2mMbljnc_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
           "content_type": "video/mp4",
           "content_length": "66467859",
           "used_by": [
@@ -55,12 +49,8 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://buaacyw.github.io/cwm/static/posters/teaser.webp?v=corrected-proxy-v2",
           "content_type": "image/webp",
-          "content_length": "30216",
-          "used_by": [
-            "media:cwm:thumbnail_url"
-          ],
+          "content_length": "51752",
           "checked_on": "2026-10-22"
         }
       }
@@ -76,7 +66,6 @@
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6a262bed9c9c7a503bff9d9d/ec48eff94290c51a6b03f57844ed7d4e90576c48f021a28b03740ce3d44e4c38?X-Xet-Cas-Uid=public&response-content-type=video%2Fmp4&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27streamrender-h3-demo-71s.mp4%3B+filename%3D%22streamrender-h3-demo-71s.mp4%22%3B&user_id=public&xip=KQbEbRuMRF0&Expires=1792606920&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmEyNjJiZWQ5YzljN2E1MDNiZmY5ZDlkL2VjNDhlZmY5NDI5MGM1MWE2YjAzZjU3ODQ0ZWQ3ZDRlOTA1NzZjNDhmMDIxYTI4YjAzNzQwY2UzZDQ0ZTRjMzhcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LXR5cGU9dmlkZW8lMkZtcDQmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN3N0cmVhbXJlbmRlci1oMy1kZW1vLTcxcy5tcDQlM0IrZmlsZW5hbWUlM0QlMjJzdHJlYW1yZW5kZXItaDMtZGVtby03MXMubXA0JTIyJTNCJnVzZXJfaWQ9cHVibGljJnhpcD1LUWJFYlJ1TVJGMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRXBvY2hUaW1lIjoxNzkyNjA2OTIwfX19XX0_&Signature=MEYCIQDsvBGTl6lPYFPGzcW2M8lMeM26rBVATUUfbZ2rlZ8qQgIhAPZxXjMaBQYdIj5AyimoLmAjLsBBJDmEpRNeAhX9j0HA&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
           "content_type": "video/mp4",
           "content_length": "64813053",
           "used_by": [
@@ -86,7 +75,6 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://nvlabs.github.io/Sana/Sol-Engine/StreamRender-H3/assets/demo-poster.webp",
           "content_type": "image/webp",
           "content_length": "192878",
           "used_by": [
@@ -107,7 +95,6 @@
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://matrix-game-v4-0.github.io/page/assets/prompt/egypt06.mp4",
           "content_type": "video/mp4",
           "content_length": "7192141",
           "used_by": [
@@ -117,7 +104,6 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://matrix-game-v4-0.github.io/page/assets/prompt/egypt06.jpg",
           "content_type": "image/jpeg",
           "content_length": "24355",
           "used_by": [
@@ -138,7 +124,6 @@
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://mirros-lab.github.io/agent-garten/media/hero.mp4",
           "content_type": "video/mp4",
           "content_length": "2726931",
           "used_by": [
@@ -148,7 +133,6 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://mirros-lab.github.io/agent-garten/media/hero.jpg",
           "content_type": "image/jpeg",
           "content_length": "206664",
           "used_by": [
@@ -169,7 +153,6 @@
       "link_checks": {
         "video_url": {
           "status": 200,
-          "final_url": "https://enderfga.cn/SolarRenderer/",
           "content_type": "text/html; charset=utf-8",
           "content_length": "202804",
           "used_by": [
@@ -180,7 +163,6 @@
         },
         "thumbnail_url": {
           "status": 200,
-          "final_url": "https://raw.githubusercontent.com/Enderfga/SolarRenderer/main/assets/teaser.gif",
           "content_type": "image/gif",
           "content_length": "9174213",
           "used_by": [

@@ -9,7 +9,7 @@
 1. **Identity:** current exact title, canonical paper identifier, and primary-source correspondence. All **145 arXiv identities** were checked against the official paper pages. The other nine records were checked against publisher, author, or official project pages.
 2. **Dates:** first posting and updated dates were extracted from official citation metadata when present. Unknown release dates are left unspecified. A first arXiv posting date is not a conference date or a code-release date.
 3. **Scope and role:** records were reviewed against the executable-world workflow. Complete systems, components, evaluation resources, and surveys are distinguished. Pose/trajectory evaluation references are not classified as complete world models.
-4. **Supporting links:** **122 additional resource and media URLs** received HTTP-header checks. The primary paper checks are separate from these supporting-link checks. A successful response is evidence of reachability, not that an entire system is available or reproducible.
+4. **Supporting links:** **124 additional resource and media URLs** received HTTP-header checks. The primary paper checks are separate from these supporting-link checks. A successful response is evidence of reachability, not that an entire system is available or reproducible.
 5. **Technical evidence:** existing targeted reading notes were retained with their reading-depth labels; selected current official READMEs and project pages were inspected again. This is not a claim that all papers were newly read in full or independently reproduced.
 
 arXiv's metadata API rate-limited the initial request sequence. Verification therefore used the official article pages and their citation metadata; the catalog does not claim a successful API sweep.
