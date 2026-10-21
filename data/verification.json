@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-10-22",
+  "checks": [
+    "primary-source identity",
+    "canonical identifier and title",
+    "first and updated dates when available",
+    "scope and role review"
+  ],
+  "reference_count": 154,
+  "arxiv_identity_checks": 145,
+  "corrections": [
+    {
+      "id": "C10",
+      "change": "Added canonical arXiv identity from the official project source.",
+      "previous_source": "https://github.com/Enderfga/SolarRenderer",
+      "verified_source": "https://arxiv.org/abs/2610.28630"
+    },
+    {
+      "id": "R07",
+      "change": "Added canonical arXiv identity from the official project source.",
+      "previous_source": "https://primecai.github.io/generative_rendering/",
+      "verified_source": "https://arxiv.org/abs/2312.01409"
+    }
+  ],
+  "limitations": [
+    "No independent reproduction of model results.",
+    "Primary-source identity checks do not claim a new full technical reading of every paper.",
+    "A reachable code link does not establish that all system components or weights are released."
+  ],
+  "additional_resource_links_checked": 122,
+  "omitted_unavailable_links": [
+    {
+      "id": "A16",
+      "field": "project",
+      "url": "https://future-item.github.io/RoleWorld",
+      "status": 404
+    }
+  ],
+  "omitted_unavailable_media": [
+    "Streaming Code World Model README attachment returned HTTP 404; retained its official repository link without embedding that attachment."
+  ]
+}
