@@ -785,9 +785,6 @@ Definitions and broader context from world modeling, interactive video, and AI f
 
 Additions, corrections, and better primary sources are welcome. Please include an official paper/project link, explain the connection to the scope, and distinguish reported results from your own interpretation. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Acknowledgments
-
-The preview-first presentation was inspired by [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos); the visual navigation and readable research organization were inspired by [awesome-ai-for-games](https://github.com/Eurekaleo/awesome-ai-for-games). Artwork and wording in this repository are original. The literature discovery process also used author repositories and community indexes, with entries checked against primary sources.
 
 ## License
 
